@@ -1,128 +1,79 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct for Hackathon Chronicles
 
-## Our Pledge
+At **Hackathon Chronicles**, we strive to create a welcoming and inclusive community for all participants. We are committed to fostering an environment where everyone feels safe, respected, and valued—regardless of background, experience, or identity.
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+By participating in this project, you agree to adhere to this Code of Conduct.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+## 1. Be Respectful
 
-## Our Standards
+- Treat others with kindness and empathy.
+- Engage in thoughtful, constructive communication.
+- Respect differences of opinion and experience.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## 2. Be Inclusive
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+- Ensure that **everyone** feels welcome and valued.
+- We welcome all people, regardless of gender, race, ethnicity, age, sexual orientation, disability, or experience level.
+- Avoid language or behavior that could exclude, demean, or discriminate against anyone.
 
-Examples of unacceptable behavior include:
+## 3. Constructive Feedback
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Provide feedback that is helpful and aimed at improving the work.
+- Focus on the work or idea, not the individual.
+- Avoid personal attacks or hostile language.
 
-## Enforcement Responsibilities
+## 4. Harassment-Free Environment
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Harassment, discrimination, and abusive behavior are not acceptable. This includes but is not limited to:
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+- Offensive jokes or comments related to race, gender, identity, or other personal characteristics.
+- Unwanted physical contact or advances.
+- Insults, personal attacks, or any form of harmful behavior.
 
-## Scope
+We have a **zero-tolerance** policy for harassment in any form.
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+## 5. Collaboration and Learning
 
-## Enforcement
+- Share knowledge and encourage others, regardless of their skill level.
+- Offer support to those who are new or struggling with challenges.
+- Be open to learning, growing, and being challenged by others.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-Code of conduct.
-All complaints will be reviewed and investigated promptly and fairly.
+## 6. Respect Privacy
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+- Do not share private or personal information about others without their consent.
+- Respect people's time and effort in contributing to the project.
 
-## Enforcement Guidelines
+## 7. Reporting Misconduct
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+If you experience or witness behavior that violates this Code of Conduct, please **report it immediately**. We take violations very seriously and will handle them with care and confidentiality.
 
-### 1. Correction
+### **How to Report a Violation:**
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+1. **Use the Code of Conduct Violation Report Template**: Please fill out the [Code of Conduct Violation Report Issue Template](https://github.com/your-username/your-repo-name/issues/new?template=report-coc-violation.md) to submit a report.
+   - This template will guide you through providing the necessary information to help us understand and address the situation.
+2. **Contact the Maintainers**: If you prefer, you can contact the project maintainers directly at [Your Email Address] or via GitHub [Your Username or Contact].
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+All reports will be treated with confidentiality, and we will take appropriate action to address the situation.
 
-### 2. Warning
+## 8. Consequences of Violations
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+Violations of this Code of Conduct may result in:
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+- A warning or temporary suspension from the repository.
+- A permanent ban from contributing to the project.
+- Other corrective actions, depending on the severity of the violation.
 
-### 3. Temporary Ban
+Maintainers will review the situation and take appropriate action to ensure the safety and health of the community.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+## 9. Thank You
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+Thank you for helping us keep **Hackathon Chronicles** a safe, respectful, and fun place to learn, collaborate, and grow together. We appreciate your contribution!
 
-### 4. Permanent Ban
+---
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+### **Contact Information for Reporting Misconduct**
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+If you experience or witness behavior that violates the Code of Conduct, please report it via the [Code of Conduct Violation Report Template](https://github.com/Enthusiastic-Developer/Hackathon_Chronicles/blob/EDMain/.github/ISSUE_TEMPLATE/report-coc-violation.md) or contact the maintainers directly at:
 
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+- **Maintainers**: [Enthusiastic Developer]
+- **Email**: [support@enthusiasticdeveloper.in]
