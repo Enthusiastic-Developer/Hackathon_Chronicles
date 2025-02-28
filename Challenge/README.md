@@ -1,1 +1,0 @@
-Remove this file when the new challenge is created and create a proper folder structure.

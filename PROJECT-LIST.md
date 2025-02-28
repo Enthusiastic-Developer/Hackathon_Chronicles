@@ -15,33 +15,49 @@ A **beginner-friendly challenge** where you’ll work on **50 mini projects** th
 - Rotating Navigation Animation
 - Movie App
 - Todo List
-
----
-
-## **2. Special Themed Challenges** 🎯
-A collection of challenges focused on specific technologies and frameworks. Perfect if you want to specialize or experiment with new tools.
-
-*Examples:*
-- **React** Challenge: Build dynamic single-page apps with React.
-- **Vue.js** Challenge: Work on front-end development with Vue.js.
-- **Game Development** Challenge: Learn 2D game development using HTML5 Canvas and JavaScript.
-
----
-
-## **How to Choose a Project**
-- **Skill Level**: Some challenges like "50 Projects in 50 Days" are ideal for beginners, while others like the "100 Days of Coding" challenge are more suited for intermediate developers.
-- **Technology Focus**: Focus on the challenge that aligns with the technologies you're interested in (React, JavaScript, Full-Stack, etc.).
-- **Project Type**: Some challenges will have a hands-on approach with real-world applications, while others focus more on learning algorithms and data structures.
-
----
-
-## **Project Naming Convention**  
-When you start working on a challenge, create a **new branch** following this naming convention:
-- `50-projects-<your-branch-name>`
-- `100-days-<your-branch-name>`
-- `special-challenge-<technology>`
-
-For example: `50-projects-drag-and-drop`, `100-days-expense-tracker`.
+- Hidden Search Widget
+- Blurry Loading
+- Scroll Animation
+- Split Landing Page
+- Form Wave
+- Sound Board
+- Dad Jokes
+- Event Keycodes
+- Faq Collapse
+- Random Choice Picker
+- Animated Navigation
+- Incrementing Counter
+- Drink Water
+- Background Slider
+- Button Ripple Effect
+- Drag N Drop
+- Drawing App
+- Sticky Navbar
+- Double Vertical Slider
+- Toast Notification
+- Github Profiles
+- Double Click Heart
+- Auto Text Effect
+- Password Generator
+- Notes App
+- Animated Countdown
+- Image Carousel
+- Hoverboard
+- Pokedex
+- Mobile Tab Navigation
+- Password Strength Background
+- 3D Background Boxes
+- Verify Account UI
+- Live User Filter
+- Feedback UI Design
+- Custom Range Slider
+- Netflix Mobile Navigation
+- Quiz App
+- Testimonial Box Switcher
+- Random Image Feed
+- Todo List
+- Insect Catch Game
+- Simple Timer (Bonus Day 1)
 
 ---
 

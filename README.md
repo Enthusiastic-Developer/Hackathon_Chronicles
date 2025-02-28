@@ -3,8 +3,6 @@
 Welcome to **Hackathon Chronicles**! 🚀  
 This is your ultimate playground for tackling coding challenges and sharpening your programming skills across multiple languages and frameworks. Whether you're just starting out or looking to level up, Hackathon Chronicles offers a variety of challenges designed to help you grow as a developer.
 
-From **50-day** challenges to longer, more extensive projects like **100-day** and **360-day** programs, there’s something for everyone!
-
 ---
 
 ## 📚 Table of Contents
@@ -20,15 +18,15 @@ From **50-day** challenges to longer, more extensive projects like **100-day** a
 
 ---
 
-## 💡About
+## 💡 About
 
-Hackathon Chronicles is a community-driven collection of coding challenges. It’s the perfect place for both beginners and experienced developers to practice, improve, and build their portfolios. It’s not just about solving problems—it's about **consistency** and **growth** through continuous practice.
+Hackathon Chronicles is a community-driven collection of coding challenges. It’s the perfect place for both beginners and experienced developers to practice, improve, and build their portfolios. It’s not just about solving problems—it’s about **consistency** and **growth** through continuous practice.
 
-The challenges cover a wide range of topics, including algorithms, data structures, web development, and more. There’s no limit to what you can learn or create here!
+This particular challenge is focused on **50+ mini-projects** using **HTML**, **CSS**, and **JavaScript**. These projects will help you learn essential skills like DOM manipulation, CSS animations, Flexbox, and more, all while building real-world applications. Whether you're new to frontend development or looking to reinforce your skills, this project-based course is perfect for hands-on learning.
 
 ---
 
-## 🏆Challenges
+## 🏆 Challenges
 
 Our challenges are organized by duration and difficulty level:
 
@@ -36,11 +34,67 @@ Our challenges are organized by duration and difficulty level:
 - **100-Day Challenge**: A more comprehensive challenge that allows you to dive deep into problem-solving.
 - **360-Day Challenge**: For those ready to embark on a year-long learning journey, tackling complex and diverse challenges.
 
-You can contribute your own challenges or join in any existing challenge.
+### 50+ Mini Projects: **HTML, CSS & JavaScript**
+
+In this course, you'll work on over **50 mini projects**, each designed to help you build something cool while learning core frontend skills. These projects cover a wide range of topics, from animations to interactive apps. Here’s a list of what you will create:
+
+- Expanding Cards
+- Progress Steps
+- Rotating Navigation Animation
+- Hidden Search Widget
+- Blurry Loading
+- Scroll Animation
+- Split Landing Page
+- Form Wave
+- Sound Board
+- Dad Jokes
+- Event Keycodes
+- Faq Collapse
+- Random Choice Picker
+- Animated Navigation
+- Incrementing Counter
+- Drink Water
+- Movie App
+- Background Slider
+- Theme Clock
+- Button Ripple Effect
+- Drag N Drop
+- Drawing App
+- Kinetic Loader
+- Content Placeholder
+- Sticky Navbar
+- Double Vertical Slider
+- Toast Notification
+- Github Profiles
+- Double Click Heart
+- Auto Text Effect
+- Password Generator
+- Good Cheap Fast
+- Notes App
+- Animated Countdown
+- Image Carousel
+- Hoverboard
+- Pokedex
+- Mobile Tab Navigation
+- Password Strength Background
+- 3D Background Boxes
+- Verify Account UI
+- Live User Filter
+- Feedback UI Design
+- Custom Range Slider
+- Netflix Mobile Navigation
+- Quiz App
+- Testimonial Box Switcher
+- Random Image Feed
+- Todo List
+- Insect Catch Game
+- Simple Timer (Bonus Day 1)
+
+Many people jump into frontend frameworks too early. This course will help you **master vanilla JavaScript** and understand how the **Document Object Model (DOM)** works—skills that are essential before moving to a framework. 
 
 ---
 
-## 🚀Getting Started
+## 🚀 Getting Started
 
 Follow these steps to start your journey with **Hackathon Chronicles**:
 
@@ -48,7 +102,7 @@ Follow these steps to start your journey with **Hackathon Chronicles**:
 
 Make sure you have these installed:
 - Git
-- A programming language of your choice (Python, JavaScript, Java, C++, etc.)
+- A programming language of your choice (HTML, CSS, JavaScript)
 - Code editor (VSCode, IntelliJ, etc.)
 
 ### Cloning the Repository
@@ -62,12 +116,7 @@ cd hackathon-chronicles
 
 ## Installation
 
-If you're using any specific dependencies (e.g., for Python, Node.js), make sure to install them:
-
-For Python:
-``` bash
-pip install -r requirements.txt
-```
+If you're using any specific dependencies (e.g., for JavaScript), make sure to install them:
 
 For JavaScript/Node.js:
 ```bash
@@ -83,10 +132,10 @@ After setting up the environment, you can start contributing or running the chal
 - Follow the README or instructions in the challenge file itself.
 - Run the code or solve the challenge according to the instructions.
 
- Example for Python-based challenges:
+ Example for JavaScript-based challenges:
 
 ```bash
-python challenge_name.py
+open index.html in your browser
 ```
 
 ## 🤝Contributing
@@ -106,7 +155,7 @@ This project is licensed under the [Apache License 2.0 License](https://github.c
 A huge thanks to all contributors who help make this project better every day. Together, we are creating a thriving community of developers.
 
 Special thanks to:
-- [Your inspiration or resources used in this project]
+- [50-projects-50-days Udemy Course]
 - [Any relevant open-source projects]
 
 Thank you for visiting Hackathon Chronicles! 🌟 We’re excited to have you as part of our journey. Whether you're solving challenges or contributing to the repository, you are making a difference!
