@@ -1,0 +1,1 @@
+// Add your JS for Verify Account UI here
