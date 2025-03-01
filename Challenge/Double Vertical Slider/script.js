@@ -1,0 +1,1 @@
+// Add your JS for Double Vertical Slider here

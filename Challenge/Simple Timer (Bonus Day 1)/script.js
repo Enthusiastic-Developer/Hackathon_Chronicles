@@ -1,0 +1,1 @@
+// Add your JS for Simple Timer (Bonus Day 1) here
