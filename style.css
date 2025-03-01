@@ -1,0 +1,238 @@
+/* General Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #121212;
+  color: #e5e5e5;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background: #1a1a1a;
+  padding: 3rem;
+  color: #00bcd4;
+  border-bottom: 4px solid #00bcd4;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+header p {
+  font-size: 1.1rem;
+}
+
+/* Filter Section */
+.filter {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.filter select,
+.filter input {
+  margin: 0 10px;
+  padding: 0.8rem;
+  font-size: 1rem;
+  border: 2px solid #00bcd4;
+  border-radius: 5px;
+  background-color: #1c1c1c;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.filter select:focus,
+.filter input:focus {
+  background-color: #333;
+}
+
+/* Reset Filters Button */
+#reset-filters {
+  margin-top: 2rem;
+  background-color: #00bcd4;
+  color: #121212;
+  padding: 0.8rem 2rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#reset-filters:hover {
+  background-color: #008c9e;
+  transform: scale(1.05);
+}
+
+/* No Results Found Message */
+.no-results {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #e5e5e5;
+  margin: 2rem 0;
+}
+
+.no-results.hidden {
+  display: none;
+}
+
+/* Projects Grid */
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+.project-card {
+  background-color: #1c1c1c;
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #e5e5e5;
+}
+
+.project-card p {
+  color: #bbb;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  max-height: 3rem;
+  /* Ensure text doesn't overflow */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* Add ellipsis if text is too long */
+}
+
+.project-card button {
+  background-color: #00bcd4;
+  color: #121212;
+  padding: 0.8rem 2rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.project-card button:hover {
+  background-color: #008c9e;
+  transform: scale(1.05);
+}
+
+/* Load More Button */
+button#load-more {
+  display: inline-block;
+  margin: 2rem auto;
+  background-color: #00bcd4;
+  color: #121212;
+  padding: 0.8rem 2rem;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  text-align: center;
+}
+
+button#load-more:hover {
+  background-color: #008c9e;
+}
+
+/* Hide Load More button when all projects are shown */
+button#load-more.hidden {
+  display: none;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  .projects {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .project-card {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .projects {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card h3 {
+    font-size: 1.6rem;
+  }
+
+  .project-card p {
+    font-size: 0.9rem;
+  }
+
+  button#load-more {
+    font-size: 1rem;
+  }
+}
+
+/* Loading Spinner Styles */
+#loading-spinner {
+  display: none;
+  width: 50px;
+  height: 50px;
+  border: 5px solid #e5e5e5;
+  border-top: 5px solid #00bcd4;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 2rem auto;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #1a1a1a;
+  color: #fff;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}

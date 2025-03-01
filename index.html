@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>Welcome to My Project Portfolio</h1>
+    <p>Explore 51 mini-projects built using HTML, CSS, and JavaScript.</p>
+  </header>
+
+  <!-- Filter Section -->
+  <section class="filter">
+    <select id="category-filter">
+      <!-- Categories will be populated by JavaScript -->
+    </select>
+    <input type="text" id="search-bar" placeholder="Search for a project...">
+  </section>
+
+  <!-- Reset Filters Button -->
+  <button id="reset-filters">Reset Filters</button>
+
+  <!-- No Results Found Message -->
+  <div class="no-results hidden">
+    <p>No projects found for the selected filters.</p>
+  </div>
+
+  <!-- Projects Container -->
+  <section class="projects">
+    <!-- Initial Projects will be loaded here -->
+  </section>
+
+  <!-- Loading Spinner -->
+  <div id="loading-spinner"></div>
+
+  <!-- Load More Button -->
+  <button id="load-more">Load More</button>
+
+  <footer>
+    <p>&copy; 2025 Enthusiastic-Developer. All Rights Reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
