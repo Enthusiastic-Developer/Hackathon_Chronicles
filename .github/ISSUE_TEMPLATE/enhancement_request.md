@@ -2,7 +2,7 @@
 name: "🚀🆕 Enhancement  Request"
 about: Suggest an idea or improvement for Hackathon Chronicles
 Title: ''
-labels: Type: Enhancement
+labels: "Type: Enhancement"
 assignees: ''
 
 ---
