@@ -2,7 +2,7 @@
 name: "🚀🆕 Feature Request"
 about: Suggest an idea or improvement for Hackathon Chronicles
 Title: ''
-labels: enhancement
+labels: "Type: Enhancement"
 assignees: ''
 
 ---
