@@ -1,15 +1,17 @@
-# Hackathon_Chronicles - Project List 🛠️
+# Hackathon Chronicles - Project List 🛠️
 
-Welcome to the **Hackathon_Chronicles** project list! Below you'll find a collection of **coding challenges** across various difficulty levels. These projects will help you enhance your skills in web development, full-stack development, algorithms, and more.
+Welcome to **Hackathon Chronicles**! Below is a collection of **coding challenges** to help you enhance your skills in web development, full-stack development, algorithms, and more.
 
-Jump into any challenge that excites you, and remember — the key is **practice** and **consistency**! Feel free to contribute new challenges or improvements to existing ones.
+Jump into any challenge that excites you and get started!
 
 ---
 
-## **1. 50 Projects in 50 Days - HTML, CSS & JavaScript** 💻
-A **beginner-friendly challenge** where you’ll work on **50 mini projects** that will sharpen your skills in **HTML**, **CSS**, and **JavaScript**. Each project is focused on core web development concepts and will help you build a strong foundation with real-world applications.
+## **Available Projects**
 
-*Project Examples:*
+### **1. 50 Projects in 50 Days - HTML, CSS & JavaScript** 💻  
+A **beginner-friendly challenge** with **50 mini-projects** focused on HTML, CSS, and JavaScript.
+
+**Project Examples**
 - Expanding Cards
 - Progress Steps
 - Rotating Navigation Animation
@@ -23,7 +25,7 @@ A **beginner-friendly challenge** where you’ll work on **50 mini projects** th
 - Sound Board
 - Dad Jokes
 - Event Keycodes
-- Faq Collapse
+- FAQ Collapse
 - Random Choice Picker
 - Animated Navigation
 - Incrementing Counter
@@ -60,26 +62,3 @@ A **beginner-friendly challenge** where you’ll work on **50 mini projects** th
 - Simple Timer (Bonus Day 1)
 
 ---
-
-## **Contribute Your Own Projects**
-We welcome community contributions! If you have a great project idea or challenge, feel free to **fork this repo** and add your challenge to the list.
-
-For details on how to contribute, check out our [Contributing Guidelines](CONTRIBUTING.md).
-
----
-
-## **Ready to Get Started?**
-1. Fork the repository.
-2. Choose a challenge from the list above.
-3. Create a **new branch** for the challenge you're working on.
-4. Complete the project.
-5. Submit a **Pull Request (PR)** to share your work.
-
----
-
-## **Keep Coding!** 💻🎉
-Remember, coding is a journey, not a destination. Stay motivated, keep learning, and most importantly — have fun with the process!
-
----
-
-This list will keep growing as we add more challenges, so stay tuned!
