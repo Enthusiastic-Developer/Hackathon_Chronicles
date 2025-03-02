@@ -1,15 +1,12 @@
 # Hackathon Chronicles - Project List 🛠️
 
-Welcome to **Hackathon Chronicles**! Below is a collection of **coding challenges** to help you enhance your skills in web development, full-stack development, algorithms, and more.
-
-Jump into any challenge that excites you and get started!
+Welcome to **Hackathon Chronicles**! Below is a list of coding challenges to help you improve your skills in web development, algorithms, and more. Pick a challenge, start coding, and contribute to your growth!
 
 ---
 
 ## **Available Projects**
-
 ### **1. 50 Projects in 50 Days - HTML, CSS & JavaScript** 💻  
-A **beginner-friendly challenge** with **50 mini-projects** focused on HTML, CSS, and JavaScript.
+A beginner-friendly challenge with 50 mini-projects to enhance your HTML, CSS, and JavaScript skills.
 
 **Project Examples**
 - Expanding Cards
