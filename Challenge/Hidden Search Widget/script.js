@@ -1,0 +1,1 @@
+// Add your JS for Hidden Search Widget here
