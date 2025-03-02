@@ -2,7 +2,7 @@
 name: "🐞 Bug Report"
 about: Report an issue to help us improve Hackathon Chronicles
 title: "[BUG] - <Brief Description of the Issue>"
-labels: Type: Bug
+labels: "Type: Bug"
 assignees: ''
 
 ---
