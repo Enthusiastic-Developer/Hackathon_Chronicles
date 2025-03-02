@@ -1,13 +1,13 @@
 ---
-name: New Branch Request
+name: 🌿New Branch Request
 about: Request a new branch for a challenge or feature.
 title: '[NEW BRANCH] - <Branch Name or Feature Name>'
-labels: new-branch
+labels: "Type: New branch"
 assignees: ''
 
 ---
 
-## **Branch Name**
+## **🌿 Branch Name**
 Please follow this naming convention for your new branch:
 
 - **Challenge Name/Feature Name** - (e.g., `50DaysChallenge-Feb2025` or `NewFeatureName`)

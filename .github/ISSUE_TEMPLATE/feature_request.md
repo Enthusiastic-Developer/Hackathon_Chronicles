@@ -1,11 +1,13 @@
 ---
-name: Feature Request
+name: "🚀🆕 Feature Request"
 about: Suggest an idea or improvement for Hackathon Chronicles
-title: ''
-labels: enhancement
+Title: ''
+labels: "Type: Enhancement"
 assignees: ''
 
 ---
+
+# **🚀 Feature Request**
 
 ## **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. 

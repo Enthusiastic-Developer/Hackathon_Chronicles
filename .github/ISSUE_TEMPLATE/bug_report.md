@@ -1,11 +1,13 @@
 ---
-name: Bug Report
+name: "🐞 Bug Report"
 about: Report an issue to help us improve Hackathon Chronicles
 title: "[BUG] - <Brief Description of the Issue>"
-labels: bug
+labels: "Type: Bug"
 assignees: ''
 
 ---
+
+# **🐞 Bug Report**
 
 ## **Description**
 Please provide a clear and concise description of what the bug is. What went wrong?
