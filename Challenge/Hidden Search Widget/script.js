@@ -1,1 +1,8 @@
-// Add your JS for Hidden Search Widget here
+const search = document.querySelector('.search')
+const btn = document.querySelector('.btn')
+const input = document.querySelector('.input')
+
+btn.addEventListener('click', () => {
+    search.classList.toggle('active')
+    input.focus()
+})
