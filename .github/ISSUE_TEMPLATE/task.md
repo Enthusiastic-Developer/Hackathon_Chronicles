@@ -3,7 +3,10 @@ name: "📝 Task"
 about: "Create a task that needs to be completed as part of the project, such as coding tasks, organizing issues, or general tasks."
 title: "[TASK] - <Brief Description of the Task>"
 labels: "Type: Task"
-assignees: ""
+Type: "Task"
+Projects: "Hackathon_Chronicles"
+Milestone: ""
+Assignees: ""
 ---
 
 # 📝 **Task: <Brief Description of the Task>**
