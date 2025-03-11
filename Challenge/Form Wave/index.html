@@ -1,14 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Form Wave</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Form Wave</h1>
-  <p>Project details for Form Wave will be here.</p>
-  <script src="script.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Form Input Wave</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Please Login</h1>
+      <form>
+        <div class="form-control">
+          <input type="text" required />
+          <label>Email</label>
+        </div>
+
+        <div class="form-control">
+          <input type="password" required />
+          <label>Password</label>
+        </div>
+
+        <button class="btn">Login</button>
+
+        <p class="text">Don't have an account? <a href="#">Register</a></p>
+      </form>
+    </div>
+    <script src="script.js"></script>
+  </body>
 </html>
